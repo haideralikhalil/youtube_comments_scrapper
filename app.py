@@ -74,7 +74,7 @@ def save_comments_to_excel(comments, filename):
 
 st.title("YouTube Video Comment Scrapper")
 st.write("Provide YouTube Video URL and I will give you give all comments in Excel File. Super Easy!")
-link = 'Developed by [Haider Ali](https://www.linkedin.com/in/haiderkhalil/)'
+link = 'Developed by [Haider Ali](https://haiderkhalil.com/)'
 st.markdown(link, unsafe_allow_html=True)
 
 video_url = st.text_input("YouTube Video URL") or "https://www.youtube.com/watch?v=OwGsXbsIXEo"
