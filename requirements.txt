@@ -1,0 +1,7 @@
+#bot-studio
+streamlit
+youtube_transcript_api
+pytube
+google-api-python-client
+flask
+openpyxl
